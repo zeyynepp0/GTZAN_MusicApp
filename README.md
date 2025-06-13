@@ -48,8 +48,11 @@ A total of 11 different models were trained and tested using the GTZAN dataset:
 ## 👥 Contributors
 
 https://github.com/zeyynepp0
+
 https://github.com/Busrabasan67
+
 https://github.com/gksukesenn
+
 https://github.com/nemakun0
 
 ## 🚀 Features
